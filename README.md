@@ -4,8 +4,8 @@
 
 ## Table of Contents:
 * [Description](#Description)
-* [Getting Started Remotely](#Installation-&-Getting-Started-Remotely)
-* [Getting Started Locally](#Installation-&-Getting-Started-Locally)
+* [Installation & Getting Started Remotely](#Installation-&-Getting-Started-Remotely)
+* [Installation & Getting Started Locally](#Installation-&-Getting-Started-Locally)
 * [Technologies Used](#Technologies-Used)
 * [Usage](#Usage)
 * [Contributors](#Contributors)
@@ -162,5 +162,5 @@ Be sure to take note of how your pet is behaving before giving interacting with 
 * Additional sound effects from [Zap Splat](https://www.zapsplat.com)
 * Cool bouncy animation found on codepen @champa720
 
-## Depolyed
+## Deployed
 * [Digital Dude](http://www.digital-dude.com)
