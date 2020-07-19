@@ -48,7 +48,7 @@ A retro full-stack clone of the original Tamagotchi game from the 80's. Create a
   * Install: 
     * [MySQL Install (Mac)](https://dev.mysql.com/doc/mysql-osx-excerpt/5.7/en/osx-installation-pkg.html)
     * [MySQL Workbench](https://www.mysql.com/products/workbench/)
-  * Run MySQL, from System Prefrences.
+  * Run MySQL, from System Preferences.
   * Open MySQL Workbench, not required but helps to see what's going on in the DB
 
 5. Run application:
@@ -103,12 +103,12 @@ Project is created with:
 
 Be sure to take note of how your pet is behaving before giving interacting with it. Even usually helpful interactions can be harmful or neglectful if other attributes are more in need of your attention.
 
-* Feed - Keep your pet well fed, otherwise they'll get hungry ortired.
+* Feed - Keep your pet well fed, otherwise they'll get hungry  or tired.
 * Clean - Keep your pet's surroundings clean, otherwise they'll get dirty or sick.
 * Play - Keep your pet entertained, otherwise they'll get bored.
 * Sleep - Give your pet some rest.
 * Medicine - Give your pet some medicine.
-* Love - Give you pet some love.
+* Love - Give your pet some love.
 
 ### Check on Your Pets' Status
 <p align="center">
@@ -164,3 +164,4 @@ Be sure to take note of how your pet is behaving before giving interacting with 
 
 ## Deployed
 * [Digital Dude](http://www.digital-dude.com)
+
