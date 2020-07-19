@@ -4,8 +4,8 @@
 
 ## Table of Contents:
 * [Description](#Description)
-* [Installation & Getting Started Remotely](#Installation-&-Getting-Started-Remotely)
-* [Installation & Getting Started Locally](#Installation-&-Getting-Started-Locally)
+* [Getting Started Remotely](#Getting-Started-Remotely)
+* [Getting Started Locally](#Getting-Started-Locally)
 * [Technologies Used](#Technologies-Used)
 * [Usage](#Usage)
 * [Contributors](#Contributors)
@@ -20,11 +20,11 @@ A retro full-stack clone of the original Tamagotchi game from the 80's. Create a
    <img width="20%" height="300vh" src="./public/assets/readme-images/mobile.gif">
 </p>
 
-## Installation & Getting Started Remotely
+## Getting Started Remotely
 * [hosted site](http://www.digital-dude.com)
 * [repo](https://github.com/megan-pg/tamagotchi)
 
-## Installation & Getting Started Locally
+## Getting Started Locally
 
 1. Clone from the [Repo](https://github.com/megan-pg/tamagotchi.git): 
   ```
@@ -157,7 +157,7 @@ Be sure to take note of how your pet is behaving before giving interacting with 
   </a>
 </p>
 
-## Special Thanks/Credits
+## Special Thanks
 * Game Music: "Chubby Cat", from PlayOnLoop.com Licensed under Creative Commons by Attriution 4.0
 * Additional sound effects from [Zap Splat](https://www.zapsplat.com)
 * Cool bouncy animation found on codepen @champa720
