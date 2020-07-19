@@ -1,6 +1,6 @@
 # Digital Dude
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/megan-pg/tamagotchi)](https://shields.io/)
+[![GitHub repo size](https://img.shields.io/github/repo-size/kmcleod81/tamagotchi)](https://shields.io/)
 
 ## Table of Contents:
 * [Description](#Description)
@@ -26,9 +26,9 @@ A retro full-stack clone of the original Tamagotchi game from the 80's. Create a
 
 ## Getting Started Locally
 
-1. Clone from the [Repo](https://github.com/megan-pg/tamagotchi.git): 
+1. Clone from the [Repo](https://github.com/kmcleod81/tamagotchi.git): 
   ```
-  git clone https://github.com/megan-pg/tamagotchi.git
+  git clone https://github.com/kmcleod81/tamagotchi.git
   ```
 2. Install dependencies:
   ```
