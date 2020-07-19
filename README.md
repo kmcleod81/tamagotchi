@@ -3,14 +3,14 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/megan-pg/tamagotchi)](https://shields.io/)
 
 ## Table of Contents:
-* [Description](##Description)
-* [Getting Started Remotely](##Installation-&-Getting-Started-Remotely)
-* [Getting Started Locally](##Installation-&-Getting-Started-Locally)
-* [Technologies Used](##Technologies-Used)
-* [Usage](##Usage)
-* [Contributors](##Contributors)
-* [Special Thanks](##Special-Thanks)
-* [Deployed](##Deployed)
+* [Description](#Description)
+* [Getting Started Remotely](#Installation-&-Getting-Started-Remotely)
+* [Getting Started Locally](#Installation-&-Getting-Started-Locally)
+* [Technologies Used](#Technologies-Used)
+* [Usage](#Usage)
+* [Contributors](#Contributors)
+* [Special Thanks](#Special-Thanks)
+* [Deployed](#Deployed)
 
 ## Description
 A retro full-stack clone of the original Tamagotchi game from the 80's. Create an account, add some pets & keep them alive as long as you can.
